@@ -1,4 +1,3 @@
 #EDIFICIOS
-1. Edificio A
-2. Edificio D
-3. Edificio F
+1. Edificio C – Área de Vinculación
+2. Edificio D – Industrial Eléctrica y Electrónica.
